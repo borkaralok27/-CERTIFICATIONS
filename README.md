@@ -26,4 +26,4 @@ Completed a structured virtual internship learning HTML, CSS, JavaScript, and Gi
 
 ## 📫 Let's Connect
 
-If you're a recruiter or collaborator and would like to know more about any of these programs, feel free to connect with me on [LinkedIn] (https:www.linkedin.com/in/alokborkar) or [email me] (mailto:borkaralok1@example.com).
+If you're a recruiter or collaborator and would like to know more about any of these programs, feel free to connect with me on [LinkedIn] (https:www.linkedin.com/in/alokborkar) or [email me] (mailto:borkaralok1@.com).
