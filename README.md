@@ -24,6 +24,18 @@ Completed a structured virtual internship learning HTML, CSS, JavaScript, and Gi
 
 ---
 
+### 🟥 Wells Fargo Software Engineering Virtual Experience  
+**Issued:** August 2025  
+📄 [View Certificate] (https://drive.google.com/file/d/1OPUQZDD9BR6s4vm3ObUZMXrxcJOCeaJH/view?usp=share_link)  
+Completed a Forage virtual internship where I:
+- Built a data model (ERD) for a portfolio management system
+- Implemented entities using Java, Spring Boot, and JPA
+- Published a working backend to GitHub using IntelliJ
+
+A hands-on simulation that strengthened my backend engineering and data modeling skills.
+
+---
+
 ## 📫 Let's Connect
 
 If you're a recruiter or collaborator and would like to know more about any of these programs, feel free to connect with me on [LinkedIn] (https:www.linkedin.com/in/alokborkar) or [email me] (mailto:borkaralok1@.com).
